@@ -1,0 +1,37 @@
+{
+  "name": "node-sass-importer-builder",
+  "version": "0.0.1",
+  "description": "Utility to simplify creating importers for node-sass",
+  "main": "lib/builder.js",
+  "dependencies": {
+    "file-exists": "1.0.0",
+    "is-plain-object": "2.0.1",
+    "rootbeer": "1.0.5"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5",
+    "node-sass": "3.4.2"
+  },
+  "files": [
+    "README.md",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisenka/node-sass-importer-builder.git"
+  },
+  "keywords": [
+    "node-sass",
+    "importer"
+  ],
+  "author": "kisenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kisenka/node-sass-importer-builder/issues"
+  },
+  "homepage": "https://github.com/kisenka/node-sass-importer-builder#readme"
+}
