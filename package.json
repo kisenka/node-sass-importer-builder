@@ -1,6 +1,6 @@
 {
   "name": "node-sass-importer-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility to simplify creating importers for node-sass",
   "main": "lib/builder.js",
   "dependencies": {
