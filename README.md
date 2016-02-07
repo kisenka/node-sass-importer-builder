@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # node-sass-importer-builder
 
 Utility to simplify creating importers for node-sass.
